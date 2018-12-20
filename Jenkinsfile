@@ -18,4 +18,7 @@ node{
     stage("test"){
         echo "test stage!!!"
     }
+    stage("whoever"){
+        echo "whoever!!!"
+    }
 }
