@@ -21,4 +21,7 @@ node{
     stage("whatever"){
         echo "whatever"
     }
+    stage("whoever"){
+        echo "whoever"   
+    }
 }
